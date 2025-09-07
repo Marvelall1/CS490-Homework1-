@@ -1,1 +1,0 @@
-This is my first-ever GitHub repository, which holds my CS490 Assignment 1. This class is a project-based class, and this assignment was created for us to get familiar with API requests, POST, and GET.
